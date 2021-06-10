@@ -1,7 +1,7 @@
 body {
-    background-color:white;
+    background-color:black;
     margin: 0;
-    margin-bottom: 40;
+    margin-bottom: 10;
     text-align: center;
 }
 
@@ -9,7 +9,35 @@ h1
 {
     padding: 12px;
     margin: 0;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Arial', 'sans-serif';
+    font-family: 'Sawarabi Gothic', sans-serif;
+    background-color:black;
+    color: white;
+}
+div
+{
+    padding: 12px;
+    margin: 0;
+    font-family: 'Sawarabi Gothic', sans-serif;
     background-color:black;
     color: white; 
+}
+p
+{
+    padding: 12px;
+    margin: 0;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    background-color:black;
+    color: white;
+}
+h6
+{
+    padding: 12px;
+    margin: 0;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    background-color:black;
+    color: white;
+}
+img
+{
+    padding: 15px;
 }
